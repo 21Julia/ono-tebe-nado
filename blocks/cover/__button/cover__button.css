@@ -1,0 +1,13 @@
+.cover__button {
+  min-width: 257px;
+  min-height: 52px;
+  background: transparent;
+  border: 1px solid #fff;
+  padding: 0;
+  text-align: center;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: uppercase;
+  color: #fff;
+}

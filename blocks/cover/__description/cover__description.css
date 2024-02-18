@@ -1,0 +1,8 @@
+.cover__description {
+  z-index: 1;
+  color: #fff;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 78px;
+}

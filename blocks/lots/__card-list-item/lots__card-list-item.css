@@ -1,0 +1,6 @@
+.lots__card-list-item {
+  list-style: none;
+  max-width: 430px;
+  min-height: 450px;
+  flex-grow: 1;
+}

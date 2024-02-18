@@ -1,0 +1,11 @@
+.cover__title {
+  z-index: 1;
+  color: #FFF;
+  font-size: 100px;
+  font-weight: 700;
+  line-height: 115%;
+  text-transform: uppercase;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}

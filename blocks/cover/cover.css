@@ -1,0 +1,11 @@
+.cover {
+  max-width: 1440px;
+  height: 757px;
+  margin: 0 auto;
+  padding: 165px 50px 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: url(../../images/cover.jpg) center no-repeat;
+  background-size: cover;
+}

@@ -1,6 +1,7 @@
 .about__text {
   display: flex;
   flex-direction: column;
+  max-width: 885px;
   gap: 25px;
   font-size: 20px;
   font-weight: 400;
